@@ -2,14 +2,16 @@
 
 ---
 
-A comprehensive collection of header files of 'C' language  focusing on the data-structures written by @Fatin Shadab
+A comprehensive collection of header files of 'C' language  focusing on the data-structures started by [@Fatin Shadab](https://github.com/FatinShadab) maintained by [@UIU Developers Hub](https://github.com/UIU-Developers-Hub)
 
 ---
 
 Welcome to C-STRUCTURE, your go-to repository for mastering data structures in C. Here, we provide meticulously crafted header files, starting with our flagship implementation: the Singly Linked List (SLL). As an open-source contribution hub, this repository serves as a foundation for various data structure implementations, helping developers enhance their skills and contribute to the coding community.
 
 **Header Files**
--  [**sll.h** ](https://github.com/FatinShadab/C-STRUCTURE/tree/main/SLL) : Implementation of Single Linked List
+-  [**sll.h** ](https://github.com/UIU-Developers-Hub/C-STRUCTURE/tree/main/SLL) : Implementation of 'Single Linked List'
+-  [**dll.h** ](https://github.com/UIU-Developers-Hub/C-STRUCTURE/tree/main/DLL) : Implementation of 'Doubly Linked List'
+
 
 **Features**
   
@@ -31,10 +33,10 @@ Welcome to C-STRUCTURE, your go-to repository for mastering data structures in C
    Browse through the Directories to find various header files for different data structures. Each header file comes with detailed documentation and examples.
 
 3. **Contribute**:
-   - Create your own data structure implementation in C.
-   - Add a new header file following our template and guidelines.
-   - Submit a pull request to contribute your implementation to the community.
-
+   - Create or update data structure implementation in 'C'
+   - Optimize the existing functions if it can be done
+   - Add or update header file following our template and guidelines
+   - Submit a pull request to contribute your implementation to the community
 
 **Contributing**
 
