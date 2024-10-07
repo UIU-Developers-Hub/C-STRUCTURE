@@ -44,6 +44,6 @@ We welcome contributions from developers of all skill levels. Feel free to mail 
 
 **License**
 
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/FahimFBA/C-STRUCTURE/blob/main/LICENSE) - see the LICENSE file for details.
 
 Start exploring the world of efficient data structures in C with C-STRUCTURE. Happy coding! 🚀
