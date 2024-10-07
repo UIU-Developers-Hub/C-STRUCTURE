@@ -32,7 +32,7 @@
 
 * Creating and Initializing a Singly Linked List
 
-    ```
+    ```c
     #include <stdio.h>
     #include "sll.h"
     
@@ -84,26 +84,26 @@
     }
     ```
 * Inserting Elements into the Linked List
-    ```
+    ```c
     // Insert elements into the linked list
     insertAtHead(&intList, 42, int); // OR insertAtHead__int(&intList, 42);
     insertAtTail(&floatList, 3.14, float); // OR insertAtTail__float(&intList, 3.14);
     insertAt(&charList, 'A', 1, char); // OR insertAt__char(&intList, 'A');
     ```
 * Deleting Elements from the Linked List
-    ```
+    ```c
     // Delete elements from the linked list
     deleteHead(&intList, int); // OR deleteHead__int(&intList);
     delete(&floatList, 3.14, float); // OR delete__float(&floatList, 3.14);
     deleteAll(&charList, 'A', char); // OR deleteAll__char(&charList, 'A');
     ```
 * Retrieving and Updating Elements in the Linked List
-    ```
+    ```c
     // Retrieve data at a specific index
     int dataAtIndex = getDataAt(&intList, 1, -1, int);
     ```
 * Update data at a specific index
-    ```
+    ```c
     updateAt(&intList, 1, 99, int);
     ```
 ### API Reference
