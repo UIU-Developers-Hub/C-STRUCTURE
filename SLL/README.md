@@ -1,8 +1,8 @@
 # SLL HEADER FILE : Singly Linked List (SLL) Implementation in C
----
+
 ### Overview
 ---
->>> This repository provides a generic implementation of a singly linked list (SLL) in C, allowing you to create and manipulate linked lists with different data types, including int, float, char, and double. The implementation is designed to be flexible and easy to use, allowing users to perform various operations on the linked list, such as insertion, deletion, retrieval, and updating of elements.
+This repository provides a generic implementation of a singly linked list (SLL) in C, allowing you to create and manipulate linked lists with different data types, including int, float, char, and double. The implementation is designed to be flexible and easy to use, allowing users to perform various operations on the linked list, such as insertion, deletion, retrieval, and updating of elements.
 
 ### Table of Contents
 ---
