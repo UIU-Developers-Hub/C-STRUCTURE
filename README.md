@@ -1,19 +1,21 @@
+
 **C-STRUCTURE: Empowering Students with Efficient Data Structures in C**
 
 ---
 
+## Overview
 A comprehensive collection of header files of 'C' language  focusing on the data-structures started by [@Fatin Shadab](https://github.com/FatinShadab) maintained by [@UIU Developers Hub](https://github.com/UIU-Developers-Hub)
 
 ---
 
 Welcome to C-STRUCTURE, your go-to repository for mastering data structures in C. Here, we provide meticulously crafted header files, starting with our flagship implementation: the Singly Linked List (SLL). As an open-source contribution hub, this repository serves as a foundation for various data structure implementations, helping developers enhance their skills and contribute to the coding community.
 
-**Header Files**
+## Header Files
 -  [**sll.h** ](https://github.com/UIU-Developers-Hub/C-STRUCTURE/tree/main/SLL) : Implementation of 'Single Linked List'
 -  [**dll.h** ](https://github.com/UIU-Developers-Hub/C-STRUCTURE/tree/main/DLL) : Implementation of 'Doubly Linked List'
 
 
-**Features**
+## Features
   
 - **Modular Design**: Each header file is designed with modularity in mind, allowing developers to seamlessly integrate different data structures into their projects.
 
@@ -21,7 +23,7 @@ Welcome to C-STRUCTURE, your go-to repository for mastering data structures in C
 
 - **Educational Resource**: Whether you're a beginner learning the basics or an experienced programmer looking to sharpen your skills, our repository offers valuable insights into data structure implementation and manipulation.
 
-**Getting Started**
+## Getting Started
 
 1. **Clone the Repository**:
    ```bash
@@ -38,11 +40,11 @@ Welcome to C-STRUCTURE, your go-to repository for mastering data structures in C
    - Add or update header file following our template and guidelines
    - Submit a pull request to contribute your implementation to the community
 
-**Contributing**
+## Contributing
 
 We welcome contributions from developers of all skill levels. Feel free to mail me [here](mailto:fatinshadab123@gmail.com)
 
-**License**
+## License
 
 This project is licensed under the [MIT License](https://github.com/FahimFBA/C-STRUCTURE/blob/main/LICENSE) - see the LICENSE file for details.
 
