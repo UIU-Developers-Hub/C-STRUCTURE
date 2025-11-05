@@ -1,5 +1,5 @@
 - [Home](/README.md)
 
 
-- [DLL](/DLL/README.md)
-- [SLL](/SLL/README.md)
+- [Doubly Linked List](/DLL/README.md)
+- [Singly Linked List](/SLL/README.md)
