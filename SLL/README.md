@@ -133,7 +133,7 @@ This repository provides a generic implementation of a singly linked list (SLL) 
 
 * freeSLL(sll, type): Frees the memory occupied by all nodes in the linked list and resets the list.
 
-##### *** For detailed function descriptions and usage examples, please refer to the header file 'sll.h' and 'sll.c'.
+For detailed function descriptions and usage examples, please refer to the header file 'sll.h' and 'sll.c'.
 
 ### Contributing
 ---
